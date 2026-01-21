@@ -18,7 +18,7 @@ export function HeroSection() {
             />
           </div>
           <div className="space-y-2">
-            <Badge variant="outline" className="text-base px-4 py-1 border-primary/50 bg-background/50 backdrop-blur-sm">
+            <Badge variant="outline" className="text-sm px-4 py-1 border-primary/50 bg-background/50 backdrop-blur-sm">
               Master's Student - Microelectronics & Radio Frequency
             </Badge>
             <h1 className="text-3xl font-bold tracking-tighter sm:text-4xl md:text-5xl lg:text-6xl/none bg-clip-text text-transparent bg-gradient-to-r from-primary to-primary/60">
